@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "name": "Air Max Sneakers",
+        "category": "mens-collection",
+        "price": "Price : 2499",
+        "image": "/image/men-white.jpg",
+        "description": "Modern sporty sneakers with breathable mesh material and cushioned soles for everyday comfort.",
+        "brand": "SOLE STYLE",
+        
+        "color": [
+            {
+                "name" : "White",
+                "image" : "/image/men-white.jpg"
+            },
+            {
+                "name" : "Blue",
+                "image" : "/image/men-blue.jpg"
+            }
+        
+        ],
+
+        "sizes": [9, 10, 11, 12],
+        "stock": 15,
+        "rating": 4.5
+        },
+        {
+        "id": 2,
+        "name": "Classic Running Shoes",
+        "category": "mens-collection",
+        "price": "Price : 2999",
+        "image": "/image/men-2.jpg",
+        "description": "Classic running shoes designed with lightweight material and flexible soles for daily activities.",
+        "brand": "SOLE STYLE",
+        
+        "color": [
+            {
+                "name" : "Black",
+                "image" : "/image/men-2.jpg"
+            },
+            {
+                "name" : "White",
+                "image" : "/image/men-1.jpg"
+            }
+        
+        ],
+
+        "sizes": [7, 8, 9, 10, 12],
+        "stock": 10,
+        "rating": 4.0
+        },
+        {
+        "id": 3,
+        "name": "Elegant Sneakers",
+        "category": "womens-collection",
+        "price": "Price : 1999",
+        "image": "/image/women-1.webp",
+        "description": "Elegant casual sneakers with a stylish design and soft cushioned interior for all-day comfort.",
+        "brand": "SOLE STYLE",
+        
+        "color": [
+            {
+                "name" : "Sandal",
+                "image" : "/image/women-1.webp"
+            },
+            {
+                "name" : "Blue",
+                "image" : "/image/women-blue.jpg"
+            }
+        
+        ],
+
+        "sizes": [4, 5, 6, 7, 8, 10],
+        "stock": 12,
+        "rating": 4.6
+        },
+        {
+        "id": 4,
+        "name": "Formal Shoes",
+        "category": "womens-collection",
+        "price": "Price : 2499",
+        "image": "/image/womens-2.jpg",
+        "description": "Elegant women's formal shoes designed for a polished professional look. Featuring a comfortable fit and perfect business meetings, and formal occasions.",
+        "brand": "SOLE STYLE",
+        
+        "color": [
+            {
+                "name" : "Black",
+                "image" : "/image/womens-2.jpg"
+            },
+            {
+                "name" : "Brown",
+                "image" : "/image/women-browns.jpg"
+            }
+        
+        ],
+
+        "sizes": [ 6, 7, 8, 10, 12],
+        "stock": 8,
+        "rating": 4.3
+        },
+        {
+        "id": 5,
+        "name": "Velcro Sneakers",
+        "category": "kids-collection",
+        "price": "Price : 1599",
+        "image": "/image/kid-grey.jpg",
+        "description": "Comfortable kids sneakers with easy velcro fastening and a lightweight flexible sole.",
+        "brand": "SOLE STYLE",
+        
+        "color": [
+            {
+                "name" : "Grey",
+                "image" : "/image/kid-grey.jpg"
+            },
+            {
+                "name" : "Green",
+                "image" : "/image/kid-green.jpg"
+            }
+        
+        ],
+
+        "sizes": [1, 2, 3, 4, 5],
+        "stock": 20,
+        "rating": 4.2
+        },
+        {
+        "id": 6,
+        "name": "Little Star Sneakers",
+        "category": "kids-collection",
+        "price": "Price : 999",
+        "image": "/image/kids-2.jpg",
+        "description": "Fun light-up shoes with comfortable cushioning and an easy-to-wear design for kids.",
+        "brand": "SOLE STYLE",
+        
+        "color": [
+            {
+                "name" : "Blue",
+                "image" : "/image/kids-2.jpg"
+            },
+            {
+                "name" : "Pink",
+                "image" : "/image/kid-pink.jpg"
+            }
+        
+        ],
+
+        "sizes": [1, 2, 3, 4, 5],
+        "stock": 14,
+        "rating": 4.4
+        }
+]
+}
